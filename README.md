@@ -16,6 +16,12 @@ This app is a polished front-end dashboard for museum operations and digital eng
 
 It is currently a front-end product UI, not a full data-connected platform.
 
+## 🌍 Live App
+
+The app is live at:
+
+- https://museoverse-web-app.vercel.app/
+
 ## 📌 Current Status
 
 The main routed application is fully navigable through the sidebar and includes 9 primary pages:
